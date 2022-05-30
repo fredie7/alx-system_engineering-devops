@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "java\npython\nscalar\npython\njavascript\nperl\njava\njava\nflutter\ngolang" | sort | uniq -u
+| sort | uniq -u
