@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^$str" $file | { grep -v grep || true; }
+grep
