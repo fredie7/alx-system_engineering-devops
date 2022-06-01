@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs -n 2
+ls | tr | xargs | tr | cut
