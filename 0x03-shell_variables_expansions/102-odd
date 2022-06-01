@@ -1,2 +1,2 @@
 #!/bin/bash
-grep $file
+paste xargs -n 2 | cut -d " " -f
