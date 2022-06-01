@@ -1,2 +1,2 @@
 #!/bin/bash
-lr | tr | xargs | tr | cut
+ls | tr | xargs | tr | cut
