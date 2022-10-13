@@ -1,7 +1,1 @@
-#!/usr/bin/env bash
-# Displays 'Best School' in stdout 10 times
-
-for (( i=0; i<10; i++ ))
-do
-  echo "Best School"
-done
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCUP6sVtjqEGhio4mOrOlCyGUD/vO1F1bXxMkRs3IU1/9mjzHPQZQ0vIEUX2Ba5QcwvmGoR/TDrpwWvV4B44c9meFAaRD7j6VsU3GH4KvTlGEeLajJs/zHXwkkvgEuCrx4stbc6txe6GYp4cZ5VtsUzV9ctn/sUNLcnv3RS1USFZH2mtXFTLr6xZaT/E8O22NOhP2N4Az9jCj1qqMhlChmSmgyqOWrBqhLqy5+aoLANiMn+XsSRvgYCoWUGRaUbc4uyT/6GRJge0rZKz5exTry+3goINGMY4GP16PilqRT0oeujiMD9v58NuFsYvGshYVBmhn/oCSwD1ptNjO8wrRr5== root@6d0ee40044b7
